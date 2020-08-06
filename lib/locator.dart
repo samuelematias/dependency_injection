@@ -112,7 +112,7 @@ GetIt locator = GetIt.instance;
 // Where we register our classes
 // with a service locator.
 //
-// To make this works, ints necessary
+// To make this works, its necessary
 // add this method on main before the runApp.
 // This way, the services and classes
 // are registered before the app runs
