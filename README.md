@@ -22,11 +22,11 @@ This app show some examples of Dependency injection to use with Flutter.
 
 ## Branch 📦
 
-- [InheritedWidget - Dependency injection 💉 ](https://github.com/samuelematias/dependency_injection/blob/7a49a77a2e95fd016701b9e67ee9ddfc5304bc88/lib/inherited_injection.dart#L4)
+- [InheritedWidget - Dependency injection 💉](https://github.com/samuelematias/dependency_injection/blob/7a49a77a2e95fd016701b9e67ee9ddfc5304bc88/lib/inherited_injection.dart#L4)
 
-- [get_it - Dependency injection 💉 ](https://github.com/samuelematias/dependency_injection/blob/di/get_it/lib/locator.dart)
+- [get_it - Dependency injection 💉](https://github.com/samuelematias/dependency_injection/blob/e2388edc60b4fdffcd828b3d456386f2aa17f0f3/lib/locator.dart#L6)
 
-- [Provider - Dependency injection 💉 ](https://github.com/samuelematias/dependency_injection/blob/4a82e08e68d7bdfea089c793152db99cee9e5cc9/lib/main.dart#L15)
+- [Provider - Dependency injection 💉](https://github.com/samuelematias/dependency_injection/blob/4a82e08e68d7bdfea089c793152db99cee9e5cc9/lib/main.dart#L15)
 
 ## Tech Stack 👩🏾‍💻
 

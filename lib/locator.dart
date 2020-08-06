@@ -3,16 +3,6 @@ import 'package:get_it/get_it.dart';
 
 GetIt locator = GetIt.instance;
 
-// Where we register our classes
-// with a service locator.
-//
-// To make this works, ints necessary
-// add this method on main before the runApp.
-// This way, the services and classes
-// are registered before the app runs
-// so it's always avaliable.
-//
-//
 // Using get_it, class types can be
 // registered in two ways:
 //
@@ -118,6 +108,16 @@ GetIt locator = GetIt.instance;
 // On main file,
 // the main func set async
 // and the setupLocator with await
+//
+// Where we register our classes
+// with a service locator.
+//
+// To make this works, its necessary
+// add this method on main before the runApp.
+// This way, the services and classes
+// are registered before the app runs
+// so it's always avaliable.
+//
 //
 void setupLocator() {
   // Anonymous function, that returns
