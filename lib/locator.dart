@@ -109,7 +109,16 @@ GetIt locator = GetIt.instance;
 // and you should be fine
 // using get_it
 // as dependencuy injection framework.
-
+//
+// If you will use get_it with shared_preferences
+// its necessary set the setupLocator
+// as Future
+// and the shared_preferences variable
+// with await.
+// On main file,
+// the main func set async
+// and the setupLocator with await
+//
 void setupLocator() {
   // Anonymous function, that returns
   // your service type.
