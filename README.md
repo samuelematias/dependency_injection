@@ -22,7 +22,7 @@ This app show some examples of Dependency injection to use with Flutter.
 
 ## File 📁
 
-- [InheritedWidget - Dependency injection 💉 ](https://github.com/samuelematias/dependency_injection/blob/7a49a77a2e95fd016701b9e67ee9ddfc5304bc88/lib/inherited_injection.dart#L4)
+- [InheritedWidget - Dependency injection 💉](https://github.com/samuelematias/dependency_injection/blob/7a49a77a2e95fd016701b9e67ee9ddfc5304bc88/lib/inherited_injection.dart#L4)
 
 ## Tech Stack 👩🏾‍💻
 
